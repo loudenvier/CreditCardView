@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_eec7624af04abcc73ded3d0e1beaecb2436afc12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_b3e0f12536fcc85a94108201f2686a7bfbfba794\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f4fbb03f6ae37339de39e2d9455443732618fd6">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1811d9a601a14c6fd9123d8f990fef26d66a70a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_2c92e0dd36ae44e59265991d9539ee4146fa3ef5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1e3f848ecc0aebde32748ee0ada407d5da657834\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_b6a07055d578b8acde9ca5ed3563c609d8c31721\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_5970d0d6e801fb090a51fd22f408f310badb1917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c0b914db9956e306ab0b041b767d3443fa7e8510">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_144093564285a100205fd4b1b350bcbf1afed2dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_56a6655c3230cc8ea44637fc616b06b38be4bb2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_af753d823eaf4f2223d047b99dd68b0281d63d7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_639734791c060efa42fbddac6980367f9293dc4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_97dc653bb072ca8ddcc5c37c5abb48cff073c94e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_85b12d8fe49f0fc1a9826020e71af229cb796cc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_a8b350a5bbd02a88504b794bf3628fb801bfc74f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_7bfe8eca4dff12a362d39ce676f1324bd468dc1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_90e19ad2691a5c0fa6cbaf2c0d2f064ed818da1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_5dda9f6a02157596ee40cf9e0f26bfe6b25ab737\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4ee025a83ff3cbc88c75426afec3430154ea8cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.0_49d6c891d5072a1e7fa6685844a5f0a7871e96ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Work\CreditCardView\app\build\intermediates\exploded-aar\com.github.ozodrukh\CircularReveal\1.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="990aaea33c54b40347e1f6243dbf4ae8f1d71d3f">
+        <dex dex="C:\Work\CreditCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.ozodrukh-CircularReveal-1.0.5_c22a470fe89f02994bdafdb3a39bece329c20404\classes.dex" />
+    </item>
+
+</items>

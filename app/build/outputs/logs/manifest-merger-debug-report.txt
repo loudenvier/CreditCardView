@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [CreditCardView_:creditcarddesign:unspecified] C:\Work\CreditCardView_\creditcarddesign\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\USER\.android\build-cache\b4f512e43b7afbede17cc179e09b516a8bc8fc7f\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\USER\.android\build-cache\84b4de6c25384cf766fff34d449cde0e3d65f569\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\USER\.android\build-cache\b4290f34ce4008d3a25f95623155f4423a4cda45\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\USER\.android\build-cache\1d931e4b49f0eccbddda58007bdf7cced917d469\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\USER\.android\build-cache\9a9c1d1c94c809f277d06711bab340907b6de07d\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\USER\.android\build-cache\41e8f1abac2367ae72dea0d739074265b1462c91\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\USER\.android\build-cache\ffb079c8a0bfcc14c6bfc1b053d8bd1b04fe6a33\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\USER\.android\build-cache\5b453d91560ae10d5e0ad51f5d9fc22c2a435673\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\USER\.android\build-cache\273cefae3a778e6dabd0bccac67f04583410d368\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\USER\.android\build-cache\86bb8feca02d5cd848a5bab64beb2481b9778b9b\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\USER\.android\build-cache\aadf1af8c2d7c4c2934e1f477a56ce5939e37642\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] C:\Users\USER\.android\build-cache\ae52f5705686267acf2a8a68c6bb2b462d08e9e9\output\AndroidManifest.xml:10:5-20
+	android:label
+		ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from [CreditCardView_:creditcarddesign:unspecified] C:\Work\CreditCardView_\creditcarddesign\build\intermediates\bundles\default\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:9:9-40
+activity#com.cooltechworks.creditcarddesign.CardEditActivity
+ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:10:9-14:20
+	android:label
+		ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:13:13-45
+	android:configChanges
+		ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:12:13-60
+	android:name
+		ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:11:13-79
+activity#com.cooltechworks.creditcarddesign.sample.MainActivity
+ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:17:13-56
+	android:theme
+		ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:18:13-44
+	android:name
+		ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:16:13-82
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [CreditCardView_:creditcarddesign:unspecified] C:\Work\CreditCardView_\creditcarddesign\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\USER\.android\build-cache\b4f512e43b7afbede17cc179e09b516a8bc8fc7f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\USER\.android\build-cache\84b4de6c25384cf766fff34d449cde0e3d65f569\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\USER\.android\build-cache\b4290f34ce4008d3a25f95623155f4423a4cda45\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\USER\.android\build-cache\1d931e4b49f0eccbddda58007bdf7cced917d469\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\USER\.android\build-cache\9a9c1d1c94c809f277d06711bab340907b6de07d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\USER\.android\build-cache\41e8f1abac2367ae72dea0d739074265b1462c91\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\USER\.android\build-cache\ffb079c8a0bfcc14c6bfc1b053d8bd1b04fe6a33\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\USER\.android\build-cache\5b453d91560ae10d5e0ad51f5d9fc22c2a435673\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\USER\.android\build-cache\273cefae3a778e6dabd0bccac67f04583410d368\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\USER\.android\build-cache\86bb8feca02d5cd848a5bab64beb2481b9778b9b\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\USER\.android\build-cache\aadf1af8c2d7c4c2934e1f477a56ce5939e37642\output\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] C:\Users\USER\.android\build-cache\ae52f5705686267acf2a8a68c6bb2b462d08e9e9\output\AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\USER\.android\build-cache\b4f512e43b7afbede17cc179e09b516a8bc8fc7f\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Work\CreditCardView_\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\USER\.android\build-cache\b4f512e43b7afbede17cc179e09b516a8bc8fc7f\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\USER\.android\build-cache\84b4de6c25384cf766fff34d449cde0e3d65f569\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\USER\.android\build-cache\b4290f34ce4008d3a25f95623155f4423a4cda45\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\USER\.android\build-cache\1d931e4b49f0eccbddda58007bdf7cced917d469\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\USER\.android\build-cache\9a9c1d1c94c809f277d06711bab340907b6de07d\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\USER\.android\build-cache\41e8f1abac2367ae72dea0d739074265b1462c91\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\USER\.android\build-cache\ffb079c8a0bfcc14c6bfc1b053d8bd1b04fe6a33\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\USER\.android\build-cache\5b453d91560ae10d5e0ad51f5d9fc22c2a435673\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\USER\.android\build-cache\273cefae3a778e6dabd0bccac67f04583410d368\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\USER\.android\build-cache\aadf1af8c2d7c4c2934e1f477a56ce5939e37642\output\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\USER\.android\build-cache\b4f512e43b7afbede17cc179e09b516a8bc8fc7f\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\USER\.android\build-cache\b4f512e43b7afbede17cc179e09b516a8bc8fc7f\output\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\USER\.android\build-cache\86bb8feca02d5cd848a5bab64beb2481b9778b9b\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\USER\.android\build-cache\86bb8feca02d5cd848a5bab64beb2481b9778b9b\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\USER\.android\build-cache\86bb8feca02d5cd848a5bab64beb2481b9778b9b\output\AndroidManifest.xml:26:13-58
